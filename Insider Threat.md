@@ -6,7 +6,7 @@
 
 ## Tools and Techniques:
 
--  to solve this challenge you must be very observant and be able to do python scipts.
+-  to solve this challenge you must be very observant and be able to do python scripts.
 -  CyberChef
 
 ## Solution:

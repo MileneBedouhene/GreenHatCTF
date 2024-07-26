@@ -5,7 +5,7 @@
 -   Description: "i heard that random can be broken, show me how to"
 
 ## Tools and Techniques:
--  To solve this challenge you must be very observant and be able to do python scipts.
+-  To solve this challenge you must be very observant and be able to do python scripts.
 -  Have knowledge of the symmetric encryption algorithm "AES".
 
 ## Solution:
