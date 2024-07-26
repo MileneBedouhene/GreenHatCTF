@@ -8,9 +8,9 @@ def aes_decrypt(encrypted_flag, key):
     return pt.decode('utf-8')
 
 # Exemple d'utilisation
-# La clé doit être la même que celle utilisée pour le chiffrement
-key = generate_random_256bit()  # Remplacez par la clé utilisée pour chiffrer
-encrypted_flag = "..."  # Remplacez par le flag chiffré JSON
+
+key = 98050855612111536514983487793585093688673022207093278002021592952241434843579  
+
 
 decrypted_flag = aes_decrypt(encrypted_flag, key)
 print(decrypted_flag)
